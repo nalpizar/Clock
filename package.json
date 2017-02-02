@@ -1,0 +1,15 @@
+{
+  "name": "Semana-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "browser-sync start --server --files *.js, *.html, *.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.6"
+  }
+}
